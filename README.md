@@ -1,1 +1,1 @@
-# helm-odoo-asis-img
+odoo As is  v11.0
